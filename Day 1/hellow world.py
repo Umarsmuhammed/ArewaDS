@@ -40,4 +40,5 @@ print(type({'name':'Ummulkhair'})) # Dictionary
 X1, X2, Y1, Y2 = 10,2,8,3
 D= (X1-X2)**2+(Y1-Y2)**2
 Euclidean_distance = D*D
-print('Euclidean_distance is', Euclidean_distance)
+print('Euclidean_distance', Euclidean_distance)
+
