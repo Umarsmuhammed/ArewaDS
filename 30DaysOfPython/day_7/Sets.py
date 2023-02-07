@@ -36,7 +36,7 @@ print('Symmetric difference of A and B: ',A.symmetric_difference(B))  #symmetric
 
 del A
 del B
-#print(B) # Return Error
+print(B) # Return Error
 
 #Exercise Level 3
 age = [19, 22, 20, 25, 26, 24, 28, 27]
