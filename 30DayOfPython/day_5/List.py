@@ -1,5 +1,5 @@
 # Day 5: 30 days of python programming
-#Exercise Level 1
+#Exercises Level 1
 # Declare an empty list
 list_a = list()
 list_b = []

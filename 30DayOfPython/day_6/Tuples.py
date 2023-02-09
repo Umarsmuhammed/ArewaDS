@@ -1,6 +1,6 @@
 # Day 6: 30 days of python programming
 #Exercise Level 1
-# Create an empty tuple
+# Create an empty tuples
 emp_tpl = tuple() 
 emp_tpl2 = ()  
 

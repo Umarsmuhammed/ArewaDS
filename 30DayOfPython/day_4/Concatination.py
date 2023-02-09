@@ -1,4 +1,4 @@
-# Day_4 of 30 days python challeng
+# Day_4 of 30 days python challenge
 # we concatenate the string by joining them together to a single string
 print('Thirty' + ' ' + 'Days' + ' ' + 'Of' + ' ' + 'Python')
 

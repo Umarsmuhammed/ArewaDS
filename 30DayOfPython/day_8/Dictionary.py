@@ -1,4 +1,4 @@
-# Day 8: 30 days of python programming
+# Day 8: 30 days of python programming challenge
 
 dog = dict()   #empty dictionary
 # Add name, color, breed, legs, age to the dog dictionary

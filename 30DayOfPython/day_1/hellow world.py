@@ -1,6 +1,6 @@
 #Exercise Level 2
 #Question 1
-# my python version is 3.10.8
+# my python version is 3.10
 #Question 2
 print(3 - 4)             # subtraction(-)
 print(3 * 4)             # multiplication(*)

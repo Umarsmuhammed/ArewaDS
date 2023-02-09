@@ -1,4 +1,4 @@
-#'Day 2: 30 Days of python programming'
+#Day 2: 30 Days of python programming
 first_name = 'Umar'
 last_name = 'Sani'
 full_name = 'Umar Sani Muhammad'

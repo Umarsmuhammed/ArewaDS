@@ -1,4 +1,4 @@
-# Day 9: 30 days of python programming
+# Day 9: 30 days of python programmings
 
 a = int(input('Enter your age: '))  # user input using if statement
 if a >= 18:

@@ -1,4 +1,4 @@
-#'Day 3: 30 Days of python programming'
+#Day 3: 30 Days of python programming
 my_age = 40
 print('my_age', my_age)
 my_height = float(14)
