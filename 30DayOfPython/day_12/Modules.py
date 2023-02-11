@@ -63,7 +63,7 @@ def generate_colors(color_type, num):
         for i in range(num):
             color = "#"
             for j in range(6):
-                color += random.choice("01234cdefg")
+                color += random.choice("1234defg")
             colors.append(color)
     elif color_type == 'rgb':
         for i in range(num):
