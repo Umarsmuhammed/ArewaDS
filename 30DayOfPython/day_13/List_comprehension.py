@@ -34,5 +34,3 @@ result = cal_slope_or_intercept(2, 3, "slope")
 print("Slope:", result)
 result = cal_slope_or_intercept(2, 3, "intercept")
 print("Y-intercept:", result)
-
-
