@@ -370,5 +370,3 @@ print(letter_count)
 #Question 15
 def get_first_ten_countries(countries):
     return countries[:10]
-
-print('hello world')
